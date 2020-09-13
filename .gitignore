@@ -4,3 +4,6 @@ build/
 /python/*.egg-info
 /python/.eggs
 /python/tiny_obj_loader.h
+*.vcxproj
+/bin/
+/bin-int/
